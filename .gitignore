@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# YOLO model weights (large, auto-downloaded — don't commit)
+*.pt
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment variables (if you add any later, e.g. API keys)
+.env
